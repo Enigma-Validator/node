@@ -517,6 +517,7 @@ The validator community also runs several independent root peers for non-validat
 | Imperator.co                  | 45.76.216.191   | Japan          |
 | Imperator.co                  | 157.90.207.92   | Germany        |
 | Enigma                        | 109.123.230.189 | Japan          |
+| Enigma                        | 184.107.185.201 | Canada         |
 | TMNT                          | 31.223.196.172  | Japan          |
 | TMNT                          | 31.223.196.238  | Japan          |
 | HyperStake                    | 91.134.71.237   | France         |
